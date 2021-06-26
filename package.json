@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sakamotodd/typescript-udemy-hum/issues"
   },
-  "homepage": "https://github.com/sakamotodd/typescript-udemy-hum#readme"
+  "homepage": "https://github.com/sakamotodd/typescript-udemy-hum#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
 }
